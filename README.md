@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [twolfson/css-controls](http://github.com/twolfson/css-controls). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/twolfson-css-controls`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # css-controls [![Donate on Gittip](http://badgr.co/gittip/twolfson.png)](https://www.gittip.com/twolfson/)
 
 Cross-browser stylesheet creation and css rule creation/deletion (includes IE6 support).
